@@ -3,6 +3,7 @@
   "displayName": "theme-inspect",
   "description": "",
   "version": "0.0.1",
+  "repository": "https://github.com/Tenrys/vscode-theme-inspect",
   "engines": {
     "vscode": "^1.96.0"
   },
